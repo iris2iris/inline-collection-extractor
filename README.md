@@ -19,7 +19,7 @@ On this code there will be generated 3 lists, by one for each step.
 
 ## Solution and benefits over Sequence realization
 
-Most of expericenced users could say than problem can be solved with `Sequence` method. And they will be right. Most of the coders 
+Most of experienced programmers could say that problem can be solved with `Sequence` method. And they will be right. Most of the coders 
 do it exactly that way. It is very flexible way to extract collection with generating only one collection in result.
 
 But there is no any thing in the world **simpler than for-loops!**
